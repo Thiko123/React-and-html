@@ -11,3 +11,18 @@ root.render(
     <div className="App" />
   </StrictMode>
 );
+function (){
+  return(
+    <div className="App">
+    <h1>Challenge</h1>
+    <p>
+      Migrate this HTML from index.html to the React index.js
+    </p>
+    <small>
+      <a href="https://reactjs.org/" target="_blank" class="important">
+        Official React Website
+      </a>
+    </small>
+    </div>
+  )
+}
